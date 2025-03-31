@@ -64,7 +64,7 @@ export default function Header() {
           </div>
           
           <h1 className="text-lg md:text-xl font-bold text-[#121111] relative group-hover:text-[#0d732d] transition-colors duration-300">
-            <span className="hidden md:inline">Vighnahartas</span> 
+            <span className="hidden md:inline">Vighnahartas</span><br></br>
             <span>HK Learning & NAA</span>
             <div className="absolute -bottom-1 left-0 w-0 h-0.5 bg-[#0d732d]/40 group-hover:w-full transition-all duration-500"></div>
           </h1>
